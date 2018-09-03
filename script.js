@@ -1,3 +1,4 @@
 const direct = (n) => {
-	reverse n + 1;
+	let dd = 1;
+	reverse n + dd;
 }
